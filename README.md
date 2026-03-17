@@ -14,11 +14,6 @@ It covers:
 * Hands-on examples
 * Real-world use cases
 
-👉 Ideal for:
-
-* Beginners in Generative AI
-* Students preparing for interviews
-* Developers exploring LangChain
 
 ---
 
