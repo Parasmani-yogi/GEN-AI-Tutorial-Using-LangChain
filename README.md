@@ -37,7 +37,7 @@ It covers:
 
 ### 🔹 Messages
 
-* HumanMessage, AIMessage
+* HumanMessage, AIMessage, SystemMessage
 * Chat flow handling
 
 ### 🔹 Structured Output
